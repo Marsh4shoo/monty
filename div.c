@@ -1,7 +1,7 @@
 #include "monty.h"
 /**
  * f_div - divide top two elements of the stack.
- * @head: stack head
+ * @head: stack he0x19. C - Stacks, Queues - LIFO, FIFOad
  * @counter: line_number
  * Return: no return
 */
